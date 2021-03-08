@@ -25,7 +25,7 @@ function R(min,max) { return min+Math.random() * (max-min) };
 
 /* https://mattboldt.com/typed.js/ */
 var typed = new Typed('#text', {
-    strings: ['Бабуль, поздравляю тебя 8 марта! Желаю всего хорошого и лучшого! Люблю тебя очень очень сильно!'],
+    strings: [' Бабуль, поздравляю тебя 8 марта! Желаю всего хорошого и лучшого! Люблю тебя очень очень сильно!'],
     startDelay: 3000,
     typeSpeed: 50,
     backSpeed: 0,
